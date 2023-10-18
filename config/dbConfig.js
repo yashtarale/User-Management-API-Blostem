@@ -3,7 +3,7 @@ module.exports = {    //export because we want to use it in another file(in node
     USER: 'root',
     PASSWORD: '',
     DB: 'blostem_api_db2',
-    dialect: 'mysql',
+    dialect: 'mysql', 
 
 
     pool: {
